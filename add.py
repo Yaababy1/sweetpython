@@ -1,2 +1,6 @@
 def add(x,y):
-  return 
+  return x+y
+
+
+def prod(x,y):
+  return x*y
